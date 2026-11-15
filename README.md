@@ -1,8 +1,4 @@
 <p align="center">
-  <img src="./assets/ginkgo-header.svg" alt="Warm, minimalist ginkgo-inspired header for Chuyun (Mandy) Zhou" width="100%" />
-</p>
-
-<p align="center">
   <a href="https://www.linkedin.com/in/chuyunz/">LinkedIn</a>
   &nbsp;·&nbsp;
   <a href="#selected-projects">Projects</a>
