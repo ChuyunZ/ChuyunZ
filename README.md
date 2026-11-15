@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Distributed Systems, Computer Vision and Game Development**
 
-- 📫 How to reach me **iu0001c@gmail.com**
+- 📫 Reach me at **iu0001c@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
