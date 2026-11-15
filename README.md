@@ -1,11 +1,3 @@
-<p align="center">
-  <a href="https://www.linkedin.com/in/chuyunz/">LinkedIn</a>
-  &nbsp;·&nbsp;
-  <a href="#selected-projects">Projects</a>
-  &nbsp;·&nbsp;
-  <a href="#experience">Experience</a>
-</p>
-
 ### Hi, I'm Mandy! 👋
 
 I'm **Mandy Zhou**, an M.Sc. Computer Science student at **McGill University**, with a Computer Science background from the **University of Toronto**.
@@ -25,3 +17,6 @@ I appreciate the outdoors and small, thoughtful design details. My favorite leav
 ---
 
 <p align="center"><sub>Thanks for stopping by!</p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/chuyunz/">LinkedIn</a>
+</p>
